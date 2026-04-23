@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OPPO Token Hook</string>
+    <string-array name="xposed_scope">
+        <item>com.oppo.store</item>
+    </string-array>
+</resources>
